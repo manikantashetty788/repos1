@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hlo manikanta
+=======
+hey guys
+>>>>>>> 2261730 (first file)
