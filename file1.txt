@@ -1,2 +1,6 @@
 hlo manikanta
+<<<<<<< HEAD
 hey guys
+=======
+hey world
+>>>>>>> 0ddbcfc2be9aca20e34b8a3cc94f93dd8afc40c3
